@@ -26,4 +26,8 @@ p times
 runners.insert(2,'jane')
 p runners
 
+# Index positions are where you'll find your element in an array.  The first position always starts with 0 then 1, 2, and so on. For example the index position of the string "jane" is in index position 2.
+
+
+
 
